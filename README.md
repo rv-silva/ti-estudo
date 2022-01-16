@@ -4,12 +4,12 @@
 ## "Quem lê está em plena vantagem." Leia na sequencia.
 
 ## Qual é a da TI? Por que agora?
-- [Trabalhar com TI](https://blog.fecap.br/trabalhar-com-ti/) 2m
-- [Crescimento da TI](https://exame.com/bussola/mercado-de-ti-corporativa-deve-crescer-11-ainda-em-2021-aponta-idc/) 2m
-- [O maior crescimento na história de TI](https://startupi.com.br/2021/08/o-maior-crescimento-da-historia-de-ti/) 5m
-- [Tem vagas na TI?](https://canaltech.com.br/carreira/pesquisa-preve-carencia-de-408-mil-profissionais-de-ti-ate-2022-189998/) 2m
-- [Crescimento da Cloud Computing](https://www.convergenciadigital.com.br/Cloud-Computing/Mercado-de-nuvem-brasileiro-tem-receita-estimada-em-R%24-18-bilhoes-57725.html) 5m
-- [O tal do DevOps](https://www.youtube.com/watch?v=iwf6kcvxeD4) 11m
+- [Trabalhar com TI](https://blog.fecap.br/trabalhar-com-ti/): 2m
+- [Crescimento da TI](https://exame.com/bussola/mercado-de-ti-corporativa-deve-crescer-11-ainda-em-2021-aponta-idc/): 2m
+- [O maior crescimento na história de TI](https://startupi.com.br/2021/08/o-maior-crescimento-da-historia-de-ti/): 5m
+- [Tem vagas na TI?](https://canaltech.com.br/carreira/pesquisa-preve-carencia-de-408-mil-profissionais-de-ti-ate-2022-189998/): 2m
+- [Crescimento da Cloud Computing](https://www.convergenciadigital.com.br/Cloud-Computing/Mercado-de-nuvem-brasileiro-tem-receita-estimada-em-R%24-18-bilhoes-57725.html): 5m
+- [O tal do DevOps](https://www.youtube.com/watch?v=iwf6kcvxeD4): 11m
 
 ## Premissas:
 - É difícil pra cacete. Mas tenha certeza, todo mundo consegue aprender. Só vai "doer" um pouco.
