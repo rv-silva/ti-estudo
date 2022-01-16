@@ -1,7 +1,11 @@
 
 # DevOps - Iniciação
 
-## "Quem lê está em plena vantagem." Leia na sequencia.
+<br/>
+
+## "Quem lê está em plena vantagem." -> Vá lendo os itens pela sequencia.
+
+<br/>
 
 ## Qual é a da TI? Por que agora?
 - [Trabalhar com TI](https://blog.fecap.br/trabalhar-com-ti/): 2m
