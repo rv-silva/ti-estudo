@@ -33,6 +33,20 @@ Paga nada. Nós do program já ganhamos o privilégio da oportunidade em TI, aqu
 ## O conteúdo vai me fazer um profissional completo?
 Se acostume a estar sempre estudando em TI. O conteúdo aqui é o núcleo para você poder entrar para a área e começar a atuar profissionalmente, depois a sua jornada é continuar estudando. Acredite, depois de algum tempo fica menos difícil.
 
+## E o inglês?
+Esse é importante, não vamos negar. Não precisa ser fluente mas boa parte das documentações são em inglês, daí a necessidade. Hoje em dia, entretanto, já há bastante conteúdo em português e tentaremos focar nesses. Não espere conseguir conversar com A Rainha pra entrar de cabeça nos estudos!
+
+## Já manjo um pouco, mas tô meio perdido com o tanto de softwares/plataformas
+Todo mundo também tá, relaxa. O que você precisa saber de mais específico varia de emprego pra emprego, mas por isso mesmo é importante conhecer a base: depois disso é bem mais fácil aprender coisas novas e se adaptar ao seu contexto. Há algumas ferramentas que são muito mais usadas do que outras que são interessantes de conhecer. Uma ou mais _clouds_ públicas (AWS, GCP, Azure) são plataformas quase obrigatórias, e dá pra ficar de olho em alguns sites que compilam _tech stacks_ e sistemas mais usados: 
+- [Stack share](https://stackshare.io/index/devops#)
+- [Thoughtworks](https://www.thoughtworks.com/en-br/radar)
+
+## Tá, mas o que é essa "base" que vocês tanto falam?
+Conceitos básicos de SO, como as aplicações se comunicam, arquitetura em geral, _troubleshooting_ (sério, tem técnicas que ajudam muito), camada OSI (não precisa decorar as camadas, entender o porquê de cada uma é suficiente), estrutura de dados, algorítimos e serviços base de rede (DNS, DHCP, roteamento) são alguns dos pontos chave.
+
+## Saber uma linguagem de programação é importante?
+Depende. É sempre bom saber um pouco, pelo menos pra criar _scripts_. Algumas empresas, como Nubank e Netflix, exigem programação. Já outras não se importam muito. O mais importante é entender algorítimos, como as aplicações funcionam e o processo de _CI/CD_
+
 ## Agenda:
 - [Desafio instalar Linux](https://www.youtube.com/watch?v=6D6L9Wml1oY): 6h-8h
 - [CLI Linux 1](https://youtu.be/K05CssAbQgo): 15m
