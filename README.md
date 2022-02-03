@@ -3,7 +3,7 @@
 
 <br/>
 
-## "Quem lê está em plena vantagem." -> Vá lendo os itens pela sequencia.
+## "Quem lê está em plena vantagem." -> Leia todos os itens na sequencia e até o final.
 
 <br/>
 
@@ -56,9 +56,9 @@ Não. Os requisitos mínimos são uma conexão de internet estável e um PC/Note
 - [CLI Linux 1](https://youtu.be/K05CssAbQgo): 15m
 - [CLI Linux 2](https://youtu.be/JEhVB4VHsTI): 60m
 - [Redes](https://www.youtube.com/watch?v=7sW8CXVx7IU): 19m
-- Docker
-- Git
-- Tipos de Variáveis
-- YAML
-- Cloud (AWS ou GCP)
-- Kubernetes
+- [Docker](https://www.youtube.com/watch?v=np_vyd7QlXk): 2h
+- [Git](https://www.youtube.com/watch?v=kB5e-gTAl_s): 2h
+- [Tipos de Variáveis](https://www.youtube.com/watch?v=gTEcsh3xCoA): 10m
+- [YAML](https://www.youtube.com/watch?v=JOtIVGy1SgE): 20m
+- [Kubernetes](https://www.youtube.com/watch?v=pV0nkr61XP8) - Intenso
+- Cloud ([AWS](https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz) ou [GCP](https://www.youtube.com/watch?v=7aTommOgZE8)) - Intenso
